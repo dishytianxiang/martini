@@ -1,0 +1,1 @@
+hello nihao i am index.js
